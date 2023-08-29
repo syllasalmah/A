@@ -10,8 +10,11 @@ ul, li{
     margin-left:20px;
 }
 
-
 .recherche{
     display: flex;
     align-items: center;
+    
+}
+button{ 
+    margin-left:200px;
 }
