@@ -1,0 +1,17 @@
+nav {
+ fill:rgb(21, 20, 18);
+ display: flex;
+}
+nav ,div{
+ display: flex;
+}
+ul, li{
+    display: inline-block;
+    margin-left:20px;
+}
+
+
+.recherche{
+    display: flex;
+    align-items: center;
+}
